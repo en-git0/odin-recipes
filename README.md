@@ -1,0 +1,1 @@
+Intro: half way through the foundation course and doing some simple codes
